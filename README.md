@@ -3,6 +3,7 @@
 Using HTML and CSS3 and Javascript -
 
 The Electronics shopping website has four pages -
+
 1. The home page consisting the below
       1.Two images as slideshows showing a shooping cart and deals picture represting the users can shop and it has deals on products
       2.From Home pager, the user can navigate to Products, Services, About us and Contact us pages.
